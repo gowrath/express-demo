@@ -6,7 +6,10 @@ The concept is for users to share their subscriptions in an informal way (to sho
 
 Please check out and give me feedback ~ :)
 
-It is a dynamically served website that contains a lot of useful information related to game data and core mechanics. 
+It is a dynamically served website that used a Pokedex as a boilerplate.
+
+
+It contains a lot of useful information related to game data and core mechanics. 
 
 It is not a professional website but it has a beautifully designed user interface powered by Materialize CSS. 
 
