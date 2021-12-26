@@ -21,7 +21,7 @@ This application is built with Node.js and Express, and it has certain limitatio
 
 
 ### Friend List
-* Use the search box on the Pokédex page to look up any pokémon that you are interested in.
+* Use the search box on the Pokédex page to look up any Subscription that you are interested in.
 * You can search a pokémon by its national pokédex number or name.
 * If you do not wish to do manual searching, under the search box, there will be a long list of all pokémon of a particular generation, and you can view their data by simply clicking on the buttons.
 * By default, the Pokédex page only shows pokémon in generation one. You can navigate to other generations by clicking on the floating button on the **BOTTOM RIGHT** corner and then click on the generation index number.
